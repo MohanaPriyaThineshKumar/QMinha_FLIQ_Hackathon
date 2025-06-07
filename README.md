@@ -7,6 +7,6 @@
 * Mohana Priya Thinesh Kumar
 * Pranavishvar Hariprakash
 * Fathima Minha 
-* Tejas Ganesh Iyer
+
 
 
